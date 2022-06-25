@@ -20,7 +20,7 @@ jobs:
         java-version: '8'
         distribution: 'temurin'
     # Runs a single command using the runners shell
-    - name: Run a one-line script
+    - name: hello
       run: echo Hello, world!
 
 
@@ -43,7 +43,4 @@ jobs:
             fi
         done
         echo "AK" >> out.txt
-        curl \
-        -H "Accept: application/vnd.github.v3+json" \ 
-        -H "Authorization: token <TOKEN>" \
-        https://api.github.com/repos/Thysrael/OO-AutoTest-hw15/actions/runs
+        gh api -H "Accept: application/vnd.github.v3+json" /repos/Thysrael/OO-AutoTest-hw15/actions/runs/hello
