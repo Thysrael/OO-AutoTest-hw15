@@ -27,21 +27,20 @@ jobs:
     - name: auto test
       run: |
         name=wxg
-
+        echo test begin > out.txt
         for test in $(ls ./testcase) 
         do
-            echo "$test begin"
+            echo "$test begin" >> out.txt
             java -jar qs.jar <./testcase/$test >qs.txt
             java -jar $name.jar <./testcase/$test >$name.txt
             diff -y -W  200 qs.txt $name.txt > diff.txt
 
             if [ $? -ne 0 ] ; then
-                echo "WA"
-                cat diff.txt
-                read
+                echo "WA" >> out.txt
+                cat diff.txt >> out.txt
+                exit 1
             else
-                echo "AC"
+                echo "AC" >> out.txt
             fi
         done
-        echo "AK"
-        read
+        echo "AK" >> out.txt
