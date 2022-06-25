@@ -1,0 +1,6 @@
+{"_parent":"AAAAAAFF+qBWK6M3Z8Y=","visibility":"public","name":"Class1","_type":"UMLClass","_id":"AAAAAAGBljqBxNWE+Fk="}
+{"_parent":"AAAAAAGBljqBxNWE+Fk=","name":null,"_type":"UMLAssociation","end2":"AAAAAAGBlkPEnVEnMdk=","end1":"AAAAAAGBlkPEnVEmLUM=","_id":"AAAAAAGBlkPEnVEl2q4="}
+{"reference":"AAAAAAGBljqBxNWE+Fk=","multiplicity":"","_parent":"AAAAAAGBlkPEnVEl2q4=","visibility":"public","name":null,"_type":"UMLAssociationEnd","aggregation":"none","_id":"AAAAAAGBlkPEnVEnMdk="}
+{"reference":"AAAAAAGBljqBxNWE+Fk=","multiplicity":"","_parent":"AAAAAAGBlkPEnVEl2q4=","visibility":"public","name":null,"_type":"UMLAssociationEnd","aggregation":"none","_id":"AAAAAAGBlkPEnVEmLUM="}
+END_OF_MODEL 
+CLASS_COUNT

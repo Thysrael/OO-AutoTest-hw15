@@ -1,0 +1,27 @@
+{"_parent":"AAAAAAFF+h6SjaM2Hec=","name":"StateMachine2","_type":"UMLStateMachine","_id":"AAAAAAGBUfJwbFul2XA="}
+{"_parent":"AAAAAAGBUfJwbFul2XA=","visibility":"public","name":null,"_type":"UMLRegion","_id":"AAAAAAGBUfJwbFum11M="}
+{"_parent":"AAAAAAGBUfJwbFum11M=","visibility":"public","name":null,"_type":"UMLPseudostate","_id":"AAAAAAGBUfJ7Ulusq68="}
+{"_parent":"AAAAAAGBUfJwbFum11M=","visibility":"public","name":null,"_type":"UMLFinalState","_id":"AAAAAAGBUfKGc1u+tvY="}
+{"_parent":"AAAAAAGBUfJwbFum11M=","visibility":"public","name":null,"_type":"UMLFinalState","_id":"AAAAAAGBUfKMCFvDYjE="}
+{"_parent":"AAAAAAGBUfJwbFum11M=","visibility":"public","name":null,"_type":"UMLFinalState","_id":"AAAAAAGBUfKS1lvIuHU="}
+{"_parent":"AAAAAAFF+h6SjaM2Hec=","name":"StateMachine1","_type":"UMLStateMachine","_id":"AAAAAAGBUfHfWVr8USE="}
+{"_parent":"AAAAAAGBUfHfWVr8USE=","visibility":"public","name":null,"_type":"UMLRegion","_id":"AAAAAAGBUfHfWVr9kpY="}
+{"_parent":"AAAAAAGBUfHfWVr9kpY=","visibility":"public","name":null,"_type":"UMLPseudostate","_id":"AAAAAAGBUfHnk1sDYfI="}
+{"_parent":"AAAAAAGBUfHfWVr9kpY=","visibility":"public","name":"State1","_type":"UMLState","_id":"AAAAAAGBUfHvF1sUzIc="}
+{"_parent":"AAAAAAGBUfHfWVr9kpY=","visibility":"public","name":"State1","_type":"UMLState","_id":"AAAAAAGBUfHz5Fs5XIQ="}
+{"_parent":"AAAAAAGBUfHfWVr9kpY=","visibility":"public","name":"State1","_type":"UMLState","_id":"AAAAAAGBUfII1ltgII4="}
+{"_parent":"AAAAAAGBUfHfWVr9kpY=","visibility":"public","name":null,"_type":"UMLFinalState","_id":"AAAAAAGBUfIaj1uHRKI="}
+{"_parent":"AAAAAAFF+h6SjaM2Hec=","name":"StateMachine4","_type":"UMLStateMachine","_id":"AAAAAAGBUfM39lxO8rw="}
+{"_parent":"AAAAAAGBUfM39lxO8rw=","visibility":"public","name":null,"_type":"UMLRegion","_id":"AAAAAAGBUfM39lxPths="}
+{"_parent":"AAAAAAGBUfM39lxPths=","visibility":"public","name":null,"_type":"UMLPseudostate","_id":"AAAAAAGBUfM+BVxVRq0="}
+{"_parent":"AAAAAAFF+h6SjaM2Hec=","name":"StateMachine3","_type":"UMLStateMachine","_id":"AAAAAAGBUfLGelvk\/Go="}
+{"_parent":"AAAAAAGBUfLGelvk\/Go=","visibility":"public","name":null,"_type":"UMLRegion","_id":"AAAAAAGBUfLGelvlhmA="}
+{"_parent":"AAAAAAGBUfLGelvlhmA=","visibility":"public","name":null,"_type":"UMLPseudostate","_id":"AAAAAAGBUfLQT1vrZg0="}
+{"_parent":"AAAAAAGBUfLGelvlhmA=","visibility":"public","name":"State1","_type":"UMLState","_id":"AAAAAAGBUfLVSVv8t24="}
+{"_parent":"AAAAAAGBUfLGelvlhmA=","visibility":"public","name":"State2","_type":"UMLState","_id":"AAAAAAGBUfLaFFwhV1Y="}
+END_OF_MODEL
+STATE_COUNT StateMachine1
+STATE_COUNT StateMachine2
+STATE_COUNT StateMachine3
+STATE_COUNT StateMachine4
+STATE_COUNT StateMachine5
